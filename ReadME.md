@@ -1,8 +1,8 @@
 # Linear Regression Model
 
-This is a Linear Regression Model which is coded in Python using Numpy. I have use a similar convention as that of Sklearn module as it is intutive and easy to learn.
+This is a __Linear Regression Model__ which is coded in Python using Numpy. I have use a similar convention as that of Sklearn module as it is intutive and easy to learn.
 
-The module is supplied with a synthetic data generation function which produces leanear data giving flexibility of choosing 
+The module is supplied with a __synthetic data generation__ function which produces leanear data giving flexibility of choosing 
 - number of samples
 - number of features
 - number of target variables
