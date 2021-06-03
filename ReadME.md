@@ -10,6 +10,8 @@ The module is supplied with a synthetic data generation function which produces 
 - bais
 - noise
 - random seed
+- L2 Regularization
+- early stopping
 
 The trained model can also be plotted in 2D and in an animated 3D form for 2 feature - 1 target feature data.
 Other Libraries Used:
